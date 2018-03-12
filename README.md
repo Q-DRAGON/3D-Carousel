@@ -4,4 +4,4 @@
 ## 介绍
 通过 CSS3 实现，无框架依赖，可拖拽。
 ## 预览
-[DEMO](http://hugohua.gitee.io/waterfall)
+[DEMO](http://hugohua.gitee.io/3d-carousel)
